@@ -1,9 +1,6 @@
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width="35px" alt="java" align="right">
-
-<img align="left" src="src/main/resources/img/logo/warframeLogo.png" width="50px">
-
-<img align="right" src="src/main/resources/img/logo/clanLogo.png" width="50px">
-
+<pre>
+<img align="right" src="src/main/resources/img/logo/clanLogo.png" width="150px">
+</pre>
 
 # Kingdom of Inmortals (Warframe)
 
