@@ -1,6 +1,4 @@
-<pre>
-<img align="right" src="src/main/resources/img/logo/clanLogo.png" width="150px">
-</pre>
+<img src="src/main/resources/img/logo/clanLogo.png" alt="drawing" width="100"/>
 
 # Kingdom of Inmortals (Warframe)
 
